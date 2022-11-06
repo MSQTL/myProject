@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\sergm\Desktop\LoginSystem\LoginSystem\main.cpp(40): warning C4715: isLoggedIn: значение возвращается не при всех путях выполнения
+C:\Users\sergm\Desktop\LoginSystem\LoginSystem\main.cpp(102): warning C4715: choice: значение возвращается не при всех путях выполнения
+  LoginSystem.vcxproj -> C:\Users\sergm\Desktop\LoginSystem\Debug\LoginSystem.exe
